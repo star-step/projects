@@ -1,0 +1,1 @@
+The player loses his scores if dice turns to be 1.
